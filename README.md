@@ -1,22 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pajus</h1>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<h3 align="center">Have the courage to have the courage</h3>
+Do you want to establish cooperation ? Write boldly I am open to everything
 
-<!--
-**pajusco/pajusco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on : Improving my programming skills in C#
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **everything**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on <pending ideas\>
+
+- 👨‍💻 All of my projects are available at [https://github.com/pajusco](https://github.com/pajusco)
+
+- 📫 How to reach me ** pajuspost@gmail.com **
+
+- ⚡ Fun fact **I was afraid that over time I would stop being passionate about programming, but I feel that this love is growing every day**
+
+<h3 align="left">Languages and Tools:</h3>
