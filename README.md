@@ -3,7 +3,7 @@
 <h3 align="center">Have the courage to have the courage</h3>
 Do you want to establish cooperation ? Write boldly I am open to everything
 
-- 🔭 I’m currently working on : Improving my programming skills in C#
+- 🔭 I’m currently working on Improving my programming skills in C#
 
 - 🌱 I’m currently learning **everything**
 
