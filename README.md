@@ -14,7 +14,7 @@ Do you want to establish cooperation ? Write boldly I am open to everything
 - 📫 How to reach me ** pajuspost@gmail.com **
 
 - ⚡ Fun fact **I was afraid that over time I would stop being passionate about programming, but I feel that this love is growing every day**
-- 
+
  <h3 align="left">Languages and Tools:</h3>
 
 ![Metrics](https://metrics.lecoq.io/pajusco?template=classic&isocalendar=1&lines=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Europe%2FBerlin)
