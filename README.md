@@ -9,7 +9,7 @@ Do you want to establish cooperation ? Write boldly I am open to everything
 
 - 👯 I’m looking to collaborate on <pending ideas\>
 
-- 👨‍💻 All of my projects are available at [https://github.com/pajusco](https://github.com/pajus1337)
+- 👨‍💻 All of my projects are available at [https://github.com/pajus1337](https://github.com/pajus1337)
 
 - 📫 How to reach me ** pajuspost@gmail.com **
 
