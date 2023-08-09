@@ -1,7 +1,7 @@
 <h1 align="center">Pajus => "C# & .NET Developer"</h1>
 <h2 align="center">Hey there! I'm Pajus, a C# & .NET Developer</h2>
-<h3 align="center">Welcome to my GitHub page! I believe in having the courage to embrace challenges and constantly push my boundaries.
-If you're looking for a collaboration opportunity, don't hesitate to reach out. I'm open to exploring new ideas and projects. </h3>
+<h3 align="center">On a quest as a code crusader during daylight, and as a mad coder alchemist after dusk.
+Seeking fellow sorcerers of syntax, let's cast our spells of innovation and conjure brilliant collaborations!</h3>
 
 - 🔭 Currently, I'm dedicated to honing my programming skills in C#.
 - 🌱 I have an insatiable appetite for learning, so I'm always diving into something new.
