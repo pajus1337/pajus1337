@@ -1,24 +1,14 @@
 <h1 align="center">Pajus => "C# & .NET Developer"</h1>
-<h2 align="center">Hi 👋, I'm Pajus</h2>
+<h2 align="center">Hey there! I'm Pajus, a C# & .NET Developer</h2>
+<h3 align="center">Welcome to my GitHub page! I believe in having the courage to embrace challenges and constantly push my boundaries.
+If you're looking for a collaboration opportunity, don't hesitate to reach out. I'm open to exploring new ideas and projects. </h3>
 
-<h3 align="center">Have the courage to have the courage</h3>
-Do you want to establish cooperation ? Write boldly I am open to everything
-
-- 🔭 I’m currently working on Improving my programming skills in C#
-
-- 🌱 I’m currently learning **everything**
-
-- 👯 I’m looking to collaborate on <pending ideas\>
-
-- 👨‍💻 All of my projects are available at [https://github.com/pajus1337](https://github.com/pajus1337)
-
-- 📫 How to reach me ** pajuspost@gmail.com **
-
-- ⚡ Fun fact **I was afraid that over time I would stop being passionate about programming, but I feel that this love is growing every day**
-
-<h3 align="left">Languages and Tools:</h3>
-
-Coming soon ... :)
+- 🔭 Currently, I'm dedicated to honing my programming skills in C#.
+- 🌱 I have an insatiable appetite for learning, so I'm always diving into something new.
+- 👯 I'm excited about potential collaborations on future projects.
+- 👨‍💻 You can check out all of my projects on [GitHub](https://github.com/pajus1337).
+- 📫 Feel free to connect with me via email: **pajuspost@gmail.com**.
+- ⚡ Fun fact: Just like a well-written code, my enthusiasm for programming evolves and refines with time, getting stronger every day.
 
 ![Metrics](https://metrics.lecoq.io/pajus1337?template=classic&isocalendar=1&lines=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Europe%2FBerlin)
 
